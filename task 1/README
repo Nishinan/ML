@@ -2,3 +2,4 @@ task1.py is used to preprocess the data
 train_onestep.py is used to train the network
 model.py contains the definition of model
 example.py is used to test the network
+tem_set.pt contains the extracted templates
