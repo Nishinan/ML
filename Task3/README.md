@@ -35,7 +35,7 @@ You can also train your own value function via,
 See ```example.py``` for an example usage.
 
     ```
-python
+python 
 from retro_star.api import RSPlanner
 
 planner = RSPlanner(

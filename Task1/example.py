@@ -1,6 +1,6 @@
 from model import OneStepNet, OneStepData
 import numpy as np
-import torch
+import torch 
 from rdkit import Chem
 from rdkit.Chem import AllChem
 from rdchiral.main import rdchiralRunText
